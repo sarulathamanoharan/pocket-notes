@@ -1,3 +1,7 @@
+# Description
+
+The application is a simple note-taking web app that allows users to create and save notes for different groups. Users can select a group, add new notes, and view existing notes. The app uses local storage to save the notes and groups, and it allows users to customize the color of each group.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
